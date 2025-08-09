@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+https://github.com/podman-desktop/podman-desktop/issues/13534
+https://github.com/podman-desktop/podman-desktop/issues/13364
+https://github.com/bitwarden/clients/issues/13763#issuecomment-3027710336
+-->
